@@ -1,4 +1,4 @@
-# Advanced-Aerial-Drone-Detection-System
+# Drone-Detection-System
 
 This project demonstrates real-time drone detection using YOLOv5 and OpenCV. It detects drones in real-time and displays a warning when a drone is detected inside or near a defined rectangle.
 
